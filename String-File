@@ -1,0 +1,8 @@
+1. Think about 26 * n solutions.
+   26 = no of character in alphabate, n = size of string or array
+
+2. Trie Solutions.
+   Mainly when it involve inserting a string, seraching a string, or searching a string which starts with a character.
+
+3. When you see constrint like (26 * n) or (30 * n) just once think about Trie solutions.
+  30 = no of bits.
